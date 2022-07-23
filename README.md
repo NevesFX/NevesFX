@@ -1,5 +1,3 @@
-- 👋 Boas, sou o @NevesFX
-- 👀 Gosto de programação (html css e js)
-- 🌱 Ultimamente estudo JS
-- 💞️ Procuro pessoas para um projeto
-- 📫 Mande mensagem se tiver interessado
+- Martim, 17y
+- Estudando PHP, JS, HTML e CSS, LUA
+- Programando QBCore
