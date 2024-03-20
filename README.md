@@ -1,3 +1,7 @@
-- Martim, 17y
-- Estudando PHP, JS, HTML e CSS, LUA
-- Programando QBCore
+- 18y
+- Portugal
+
+DEV Languages:
+- HTML & CSS
+- Flutter
+- C
